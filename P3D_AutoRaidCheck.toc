@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title : P3D Auto Raid Check
+## Notes: /rc или /raidcheck для включения/выключения.
+## Author: Persik3D
+## Version: 3.3.5a
+## SavedVariables: AutoRaidCheck_Enabled
+
+P3D_AutoRaidCheck.lua
