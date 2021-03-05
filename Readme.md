@@ -2,4 +2,4 @@
 Скромный аддон для автопринятия рейдовых проверок.
 Включить/выключить можно командой /rc или /raidcheck
 
-[Скачать](https://github.com/Persik3D/P3D_AutoRaidCheck/releases/download/1.0.0.0/P3D_AutoRaidCheck.rar)
+[Скачать](https://github.com/Persik3D/AutoRaidCheck/releases/download/1.0.0.0/P3D_AutoRaidCheck.rar)
